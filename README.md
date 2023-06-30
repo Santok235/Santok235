@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Santok235
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#include<iostream>
+using namespace std;
+int main()
+{
+   cout<<"I am Santok Mori"<<endl;
+   cout<<"I am in second semester";
+   return 0;
 
-<!---
-Santok235/Santok235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+}
